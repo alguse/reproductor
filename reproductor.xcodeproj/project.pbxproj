@@ -14,6 +14,16 @@
 		C6B20A651C6FBC5D004B5C35 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6B20A631C6FBC5D004B5C35 /* LaunchScreen.storyboard */; };
 		C6B20A701C6FBC5D004B5C35 /* reproductorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B20A6F1C6FBC5D004B5C35 /* reproductorTests.swift */; };
 		C6B20A7B1C6FBC5D004B5C35 /* reproductorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B20A7A1C6FBC5D004B5C35 /* reproductorUITests.swift */; };
+		C6B20A8D1C6FC1A3004B5C35 /* Moonlight.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C6B20A881C6FC1A3004B5C35 /* Moonlight.mp3 */; };
+		C6B20A8F1C6FC1A3004B5C35 /* Platinum Medal Jingle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C6B20A8A1C6FC1A3004B5C35 /* Platinum Medal Jingle.mp3 */; };
+		C6B20A901C6FC1A3004B5C35 /* Gold Medal Jingle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C6B20A8B1C6FC1A3004B5C35 /* Gold Medal Jingle.mp3 */; };
+		C6B20A911C6FC1A3004B5C35 /* Verse Result.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C6B20A8C1C6FC1A3004B5C35 /* Verse Result.mp3 */; };
+		C6B20A941C6FC260004B5C35 /* Broken Heart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C6B20A931C6FC260004B5C35 /* Broken Heart.mp3 */; };
+		C6B20A961C6FC2AF004B5C35 /* Preparation for Battle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C6B20A951C6FC2AF004B5C35 /* Preparation for Battle.mp3 */; };
+		C6B20A981C6FC8AB004B5C35 /* cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C6B20A971C6FC8AB004B5C35 /* cover.jpg */; };
+		C6B20A9A1C6FC995004B5C35 /* cover2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C6B20A991C6FC995004B5C35 /* cover2.jpg */; };
+		C6B20A9C1C6FC998004B5C35 /* cover3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C6B20A9B1C6FC998004B5C35 /* cover3.jpg */; };
+		C6B20A9E1C6FC9A7004B5C35 /* cover4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C6B20A9D1C6FC9A7004B5C35 /* cover4.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +57,16 @@
 		C6B20A761C6FBC5D004B5C35 /* reproductorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = reproductorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6B20A7A1C6FBC5D004B5C35 /* reproductorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reproductorUITests.swift; sourceTree = "<group>"; };
 		C6B20A7C1C6FBC5D004B5C35 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C6B20A881C6FC1A3004B5C35 /* Moonlight.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Moonlight.mp3; sourceTree = "<group>"; };
+		C6B20A8A1C6FC1A3004B5C35 /* Platinum Medal Jingle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Platinum Medal Jingle.mp3"; sourceTree = "<group>"; };
+		C6B20A8B1C6FC1A3004B5C35 /* Gold Medal Jingle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Gold Medal Jingle.mp3"; sourceTree = "<group>"; };
+		C6B20A8C1C6FC1A3004B5C35 /* Verse Result.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Verse Result.mp3"; sourceTree = "<group>"; };
+		C6B20A931C6FC260004B5C35 /* Broken Heart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Broken Heart.mp3"; sourceTree = "<group>"; };
+		C6B20A951C6FC2AF004B5C35 /* Preparation for Battle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Preparation for Battle.mp3"; sourceTree = "<group>"; };
+		C6B20A971C6FC8AB004B5C35 /* cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cover.jpg; sourceTree = "<group>"; };
+		C6B20A991C6FC995004B5C35 /* cover2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cover2.jpg; sourceTree = "<group>"; };
+		C6B20A9B1C6FC998004B5C35 /* cover3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cover3.jpg; sourceTree = "<group>"; };
+		C6B20A9D1C6FC9A7004B5C35 /* cover4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cover4.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +101,7 @@
 				C6B20A6E1C6FBC5D004B5C35 /* reproductorTests */,
 				C6B20A791C6FBC5D004B5C35 /* reproductorUITests */,
 				C6B20A581C6FBC5D004B5C35 /* Products */,
+				C6B20A921C6FC1B4004B5C35 /* media */,
 			);
 			sourceTree = "<group>";
 		};
@@ -123,6 +144,23 @@
 				C6B20A7C1C6FBC5D004B5C35 /* Info.plist */,
 			);
 			path = reproductorUITests;
+			sourceTree = "<group>";
+		};
+		C6B20A921C6FC1B4004B5C35 /* media */ = {
+			isa = PBXGroup;
+			children = (
+				C6B20A971C6FC8AB004B5C35 /* cover.jpg */,
+				C6B20A881C6FC1A3004B5C35 /* Moonlight.mp3 */,
+				C6B20A8A1C6FC1A3004B5C35 /* Platinum Medal Jingle.mp3 */,
+				C6B20A8B1C6FC1A3004B5C35 /* Gold Medal Jingle.mp3 */,
+				C6B20A8C1C6FC1A3004B5C35 /* Verse Result.mp3 */,
+				C6B20A931C6FC260004B5C35 /* Broken Heart.mp3 */,
+				C6B20A951C6FC2AF004B5C35 /* Preparation for Battle.mp3 */,
+				C6B20A991C6FC995004B5C35 /* cover2.jpg */,
+				C6B20A9B1C6FC998004B5C35 /* cover3.jpg */,
+				C6B20A9D1C6FC9A7004B5C35 /* cover4.jpg */,
+			);
+			name = media;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +267,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C6B20A8F1C6FC1A3004B5C35 /* Platinum Medal Jingle.mp3 in Resources */,
+				C6B20A901C6FC1A3004B5C35 /* Gold Medal Jingle.mp3 in Resources */,
+				C6B20A8D1C6FC1A3004B5C35 /* Moonlight.mp3 in Resources */,
+				C6B20A961C6FC2AF004B5C35 /* Preparation for Battle.mp3 in Resources */,
 				C6B20A651C6FBC5D004B5C35 /* LaunchScreen.storyboard in Resources */,
+				C6B20A9A1C6FC995004B5C35 /* cover2.jpg in Resources */,
 				C6B20A621C6FBC5D004B5C35 /* Assets.xcassets in Resources */,
+				C6B20A911C6FC1A3004B5C35 /* Verse Result.mp3 in Resources */,
+				C6B20A981C6FC8AB004B5C35 /* cover.jpg in Resources */,
+				C6B20A941C6FC260004B5C35 /* Broken Heart.mp3 in Resources */,
 				C6B20A601C6FBC5D004B5C35 /* Main.storyboard in Resources */,
+				C6B20A9E1C6FC9A7004B5C35 /* cover4.jpg in Resources */,
+				C6B20A9C1C6FC998004B5C35 /* cover3.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
